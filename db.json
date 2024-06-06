@@ -15,11 +15,15 @@
   ],
   "sanpham": [
     {
-      "productName": "trà oolong sữa nướng",
-      "productDescription": "Hồng trà là một loại trà được pha từ lá trà được lên men một cách đặc biệt để tạo ra một hương vị đậm đà, đặc trưng. Với màu đỏ đậm và hương thơm đặc trưng, hồng trà thường có vị ngọt nhẹ và một chút đắng nhẹ, tạo nên một trải nghiệm uống trà đầy thú vị và sảng khoái",
-      "productPrice": 35,
-      "productStarRating": "5",
-      "id": "b447"
+      "id": "1";
+      "codeProduct":"NH6VJ0BQ7U";
+      "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)";
+      "imageURL": "/assets/products";
+      "productPrice":number;
+      "decription" : string;
+      "quantity":number;
+      "quantity":string;
+
     }
   ]
 }
