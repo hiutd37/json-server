@@ -190,7 +190,6 @@
       "id":"lib1",
       "imageURL": "/assets/library",
       "nameLib": "Ảnh thi công HCM",
-     
     },
     {
       "id":"lib2",
@@ -211,6 +210,64 @@
       "id":"lib5",
       "imageURL": "/assets/library",
       "nameLib": "Ảnh thi công Hà Nội",
+    }
+  ],
+  "news": [
+    {
+      "id":"new1",
+      "imageNew": "/assets/news",
+      "nameTittle": "Cách Tạo Không Gian Nội Thất Đẹp Theo Phong Cách Indochine",
+      "date":"08 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new2",
+      "imageNew": "/assets/news",
+      "nameTittle": "19 gam màu hứa hẹn dẫn đầu xu hướng trang trí nội thất 2022",
+       "date":"05 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new3",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất căn hộ Vinhomes Grand Park Q9 Block S202",
+       "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+     {
+      "id":"new4",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất căn hộ Midtown M7 Phú Mỹ Hưng 115m2",
+      "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new5",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất nhà phố D7 An Thiên Lý Thủ Đức",
+      "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new6",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất nhà phố KDC Bến Lức quận 8",
+       "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new7",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất biệt thự Vinhomes Tân Cảng Bình Thạnh",
+       "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
+    },
+    {
+      "id":"new8",
+      "imageNew": "/assets/news",
+      "nameTittle": "Thi công nội thất văn phòng Central Premium Tháp B - 40m2",
+       "date":"01 tháng 04, 2023",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
     }
   ],
 }
