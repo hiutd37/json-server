@@ -15,175 +15,175 @@
   ],
    "sanpham": [
     {
-      "id": "1";
-      "codeProduct":"NH6VJ0BQ7U";
-      "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)";
-      "imageURL": "/assets/products";
-      "productPrice":150000;
+      "id": "1",
+      "codeProduct":"NH6VJ0BQ7U",
+      "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)",
+      "imageURL": "/assets/products",
+      "productPrice":150000,
       "decription" : "Vật liệu gốm sứ cao cấp, tay nghề thủ công truyền thống
-                      Thiết kế thông minh, tinh tế, đơn giản";
-      "inventory":10;
-      "category":"Phụ kiện,nội thất";
+                      Thiết kế thông minh, tinh tế, đơn giản",
+      "inventory":10,
+      "category":"Phụ kiện,nội thất",
     },
       {
-      "id": "2";
-      "codeProduct":"45U28103J7";
-      "productName" : "Ghế gỗ";
-      "imageURL": "/assets/products";
-      "productPrice":150000;
-      "decription" : "Gỗ cao su tự nhiên";
-      "inventory":10;
-       "category":"Phụ kiện,nội thất";
+      "id": "2",
+      "codeProduct":"45U28103J7",
+      "productName" : "Ghế gỗ",
+      "imageURL": "/assets/products",
+      "productPrice":150000,
+      "decription" : "Gỗ cao su tự nhiên",
+      "inventory":10,
+       "category":"Phụ kiện,nội thất",
     },
     {
-      "id": "3";
-      "codeProduct":"TLFWECR12X";
-      "productName" : "Gấu bông";
-      "imageURL": "/assets/products";
-      "productPrice":300000;
-      "decription" : "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp";
-      "inventory":10;
-      "category":"Đồ chơi";
+      "id": "3",
+      "codeProduct":"TLFWECR12X",
+      "productName" : "Gấu bông",
+      "imageURL": "/assets/products",
+      "productPrice":300000,
+      "decription" : "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+      "inventory":10,
+      "category":"Đồ chơi",
     },
      {
-      "id": "4";
-      "codeProduct":"9VU6HJZD0Q";
-      "productName" : "Đồng hồ gỗ";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" :"Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn";
-      "inventory":10;
-      "category": "Phụ kiện , Đồng hồ , Nội thất";
+      "id": "4",
+      "codeProduct":"9VU6HJZD0Q",
+      "productName" : "Đồng hồ gỗ",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" :"Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "inventory":10,
+      "category": "Phụ kiện , Đồng hồ , Nội thất",
     },
       {
-      "id": "5";
-      "codeProduct":"ILK8M5VA21";
-      "productName" : "Đồng hồ tròn đơn giản";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.";
-      "inventory":10;
-      "category":"Phụ kiện , Đồng hồ , Nội thất";
+      "id": "5",
+      "codeProduct":"ILK8M5VA21",
+      "productName" : "Đồng hồ tròn đơn giản",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
+      "inventory":10,
+      "category":"Phụ kiện , Đồng hồ , Nội thất",
     },
     {
-      "id": "6";
-      "codeProduct":"GNBPUWM9TE";
-      "productName" : "Đồng hồ treo tường bằng gỗ";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn";
-      "inventory":10;
-      "category":"Phụ kiện , Đồng hồ , Nội thất";
+      "id": "6",
+      "codeProduct":"GNBPUWM9TE",
+      "productName" : "Đồng hồ treo tường bằng gỗ",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "inventory":10,
+      "category":"Phụ kiện , Đồng hồ , Nội thất",
     },
       {
-      "id": "7";
-      "codeProduct":"AO8VR52PDM";
-      "productName" : "Đèn ngủ";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Đèn để bàn trang trí ";
-      "inventory":10;
-      "category":"Chiếu sáng , Phụ kiện , Nội thất";
+      "id": "7",
+      "codeProduct":"AO8VR52PDM",
+      "productName" : "Đèn ngủ",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Đèn để bàn trang trí ",
+      "inventory":10,
+      "category":"Chiếu sáng , Phụ kiện , Nội thất",
     },
     {
-      "id": "8";
-      "codeProduct":"LPO5Y0DU1Z";
-      "productName" : "Đèn sân vườn";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Đèn sân vườn trang trí ";
-      "inventory":10;
-      "category":"Chiếu sáng , Phụ kiện , Nội thất";
+      "id": "8",
+      "codeProduct":"LPO5Y0DU1Z",
+      "productName" : "Đèn sân vườn",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Đèn sân vườn trang trí ",
+      "inventory":10,
+      "category":"Chiếu sáng , Phụ kiện , Nội thất",
     },
     {
-      "id": "9";
-      "codeProduct":"ZFHERQ24YA";
-      "productName" : "Đèn neon";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Đèn treo trang trí ";
-      "inventory":10;
-      "category":"Chiếu sáng , Phụ kiện , Nội thất";
+      "id": "9",
+      "codeProduct":"ZFHERQ24YA",
+      "productName" : "Đèn neon",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Đèn treo trang trí ",
+      "inventory":10,
+      "category":"Chiếu sáng , Phụ kiện , Nội thất",
     },
     {
-      "id": "10";
-      "codeProduct":"950A3T1UDG";
-      "productName" : "Bình thủy tinh";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Bình thủy tinh trang trí ";
-      "inventory":10;
-      "category":"Phụ kiện , Nội thất";
+      "id": "10",
+      "codeProduct":"950A3T1UDG",
+      "productName" : "Bình thủy tinh",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Bình thủy tinh trang trí ",
+      "inventory":10,
+      "category":"Phụ kiện , Nội thất",
     },
     {
-      "id": "11";
-      "codeProduct":"T9O6BL8F5C";
-      "productName" : "Đèn treo";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Đèn treo trang trí ";
-      "inventory":10;
-      "category":"Chiếu sáng , Phụ kiện , Nội thất";
+      "id": "11",
+      "codeProduct":"T9O6BL8F5C",
+      "productName" : "Đèn treo",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Đèn treo trang trí ",
+      "inventory":10,
+      "category":"Chiếu sáng , Phụ kiện , Nội thất",
     },
       {
-      "id": "12";
-      "codeProduct":"UFNORJ6Z05";
-      "productName" : "Bình đựng nước";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Bình đựng nước trang trí ";
-      "inventory":10;
-      "category":"Phụ kiện , Nội thất";
+      "id": "12",
+      "codeProduct":"UFNORJ6Z05",
+      "productName" : "Bình đựng nước",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Bình đựng nước trang trí ",
+      "inventory":10,
+      "category":"Phụ kiện , Nội thất",
     },
     {
-      "id": "13";
-      "codeProduct":"G56TI3QLDP";
-      "productName" : "Bàn cafe";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Bàn cafe trang trí ";
-      "inventory":10;
-      "category":"Phụ kiện , Nội thất";
+      "id": "13",
+      "codeProduct":"G56TI3QLDP",
+      "productName" : "Bàn cafe",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Bàn cafe trang trí ",
+      "inventory":10,
+      "category":"Phụ kiện , Nội thất",
     },
       {
-      "id": "14";
-      "codeProduct":"UGT6CJWQHO";
-      "productName" : "Tủ đầu giường";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Tủ đầu giường trang trí ";
-      "inventory":10;
-      "category":"Phụ kiện,Nội thất";
+      "id": "14",
+      "codeProduct":"UGT6CJWQHO",
+      "productName" : "Tủ đầu giường",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Tủ đầu giường trang trí ",
+      "inventory":10,
+      "category":"Phụ kiện,Nội thất",
     },
      {
-      "id": "15";
-      "codeProduct":"QH2KY53J8E";
-      "productName" : "Bình giữ nhiệt cà phê";
-      "imageURL": "/assets/products";
-      "productPrice":30000;
-      "decription" : "Bình giữ nhiệt cà phê ";
-      "inventory":10;
-      "category":"Phụ kiện,Nội thất";
+      "id": "15",
+      "codeProduct":"QH2KY53J8E",
+      "productName" : "Bình giữ nhiệt cà phê",
+      "imageURL": "/assets/products",
+      "productPrice":30000,
+      "decription" : "Bình giữ nhiệt cà phê ",
+      "inventory":10,
+      "category":"Phụ kiện,Nội thất",
     },
      {
-      "id": "16";
-      "codeProduct":"Z5WVIXUKDH";
-      "productName" : "Đĩa xanh";
-      "imageURL": "/assets/products";
-      "productPrice":25000;
-      "decription" : "Sứ tráng men cao cấp ";
-      "inventory":10;
-      "category":"Phụ kiện,Nội thất";
+      "id": "16",
+      "codeProduct":"Z5WVIXUKDH",
+      "productName" : "Đĩa xanh",
+      "imageURL": "/assets/products",
+      "productPrice":25000,
+      "decription" : "Sứ tráng men cao cấp ",
+      "inventory":10,
+      "category":"Phụ kiện,Nội thất",
     },
     {
-      "id": "17";
-      "codeProduct":"Z5WVIXUKDH";
-      "productName" : "Đĩa xanh";
-      "imageURL": "/assets/products";
-      "productPrice":25000;
-      "decription" : "Sứ tráng men cao cấp ";
-      "inventory":10;
-      "category":"Phụ kiện,Nội thất";
+      "id": "17",
+      "codeProduct":"Z5WVIXUKDH",
+      "productName" : "Đĩa xanh",
+      "imageURL": "/assets/products",
+      "productPrice":25000,
+      "decription" : "Sứ tráng men cao cấp ",
+      "inventory":10,
+      "category":"Phụ kiện,Nội thất",
     }
   ]
 }
