@@ -22,7 +22,7 @@
       "productPrice":150000,
       "decription" : "Vật liệu gốm sứ cao cấp ",
       "inventory":10,
-      "category":"Phụ kiện,nội thất"
+      "category":"Phụ kiện,Nội thất"
     },
       {
       "id": "2",
@@ -32,7 +32,7 @@
       "productPrice":150000,
       "decription" : "Gỗ cao su tự nhiên",
       "inventory":10,
-       "category":"Phụ kiện,nội thất"
+       "category":"Phụ kiện,Nội thất"
     },
     {
       "id": "3",
