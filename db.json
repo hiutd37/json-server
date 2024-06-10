@@ -178,27 +178,27 @@
   "library": [
     {
       "id":"lib1",
-      "imageURL": "/assets/library",
+      "imageURL": "/assets/library/1.jpg",
       "nameLib": "Ảnh thi công HCM"
     },
     {
       "id":"lib2",
-      "imageURL": "/assets/library",
+      "imageURL": "/assets/library/2.jpg",
       "nameLib": "Ảnh thi công Hải Dương"
     },
     {
       "id":"lib3",
-      "imageURL": "/assets/library",
+      "imageURL": "/assets/library/3.jpg",
       "nameLib": "Ảnh thi công Đà Nẵng"
     },
      {
       "id":"lib4",
-      "imageURL": "/assets/library",
+      "imageURL": "/assets/library/4.jpg",
       "nameLib": "Ảnh thi công Hải Phòng"
     },
     {
       "id":"lib5",
-      "imageURL": "/assets/library",
+      "imageURL": "/assets/library/5.jpg",
       "nameLib": "Ảnh thi công Hà Nội"
     }
   ],
