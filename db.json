@@ -18,7 +18,7 @@
       "id": "1",
       "codeProduct":"NH6VJ0BQ7U",
       "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)",
-      "productImage": "/assets/products",
+      "productImage": "./assets/products",
       "productPrice":150000,
       "decription" : "Vật liệu gốm sứ cao cấp ",
       "inventory":10,
