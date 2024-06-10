@@ -16,7 +16,6 @@
    "sanpham": [
     {
       "id": "1",
-      "codeProduct":"NH6VJ0BQ7U",
       "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)",
       "productImage": "/assets/products/1.jpg",
       "productPrice":150000,
@@ -26,7 +25,6 @@
     },
       {
       "id": "2",
-      "codeProduct":"45U28103J7",
       "productName" : "Ghế gỗ",
       "productImage": "/assets/products/2.jpg",
       "productPrice":150000,
@@ -36,7 +34,6 @@
     },
     {
       "id": "3",
-      "codeProduct":"TLFWECR12X",
       "productName" : "Gấu bông",
       "productImage": "/assets/products/3.png",
       "productPrice":300000,
@@ -46,7 +43,6 @@
     },
      {
       "id": "4",
-      "codeProduct":"9VU6HJZD0Q",
       "productName" : "Đồng hồ gỗ",
       "productImage": "/assets/products/4.png",
       "productPrice":30000,
@@ -56,7 +52,6 @@
     },
       {
       "id": "5",
-      "codeProduct":"ILK8M5VA21",
       "productName" : "Đồng hồ tròn đơn giản",
       "productImage": "/assets/products/5.jpg",
       "productPrice":30000,
@@ -66,7 +61,6 @@
     },
     {
       "id": "6",
-      "codeProduct":"GNBPUWM9TE",
       "productName" : "Đồng hồ treo tường bằng gỗ",
       "productImage": "/assets/products/6.jpg",
       "productPrice":30000,
@@ -76,7 +70,6 @@
     },
       {
       "id": "7",
-      "codeProduct":"AO8VR52PDM",
       "productName" : "Đèn ngủ",
       "productImage": "/assets/products/7.jpg",
       "productPrice":30000,
@@ -86,7 +79,6 @@
     },
     {
       "id": "8",
-      "codeProduct":"LPO5Y0DU1Z",
       "productName" : "Đèn sân vườn",
       "productImage": "/assets/products/8.jpg",
       "productPrice":30000,
@@ -96,7 +88,6 @@
     },
     {
       "id": "9",
-      "codeProduct":"ZFHERQ24YA",
       "productName" : "Đèn neon",
       "productImage": "/assets/products/9.jpg",
       "productPrice":30000,
@@ -106,7 +97,6 @@
     },
     {
       "id": "10",
-      "codeProduct":"950A3T1UDG",
       "productName" : "Bình thủy tinh",
       "productImage": "/assets/products/10.jpg",
       "productPrice":30000,
@@ -116,7 +106,6 @@
     },
     {
       "id": "11",
-      "codeProduct":"T9O6BL8F5C",
       "productName" : "Đèn treo",
       "productImage": "/assets/products/11.jpg",
       "productPrice":30000,
@@ -126,7 +115,6 @@
     },
       {
       "id": "12",
-      "codeProduct":"UFNORJ6Z05",
       "productName" : "Bình đựng nước",
       "productImage": "/assets/products/12.jpg",
       "productPrice":30000,
@@ -136,7 +124,6 @@
     },
     {
       "id": "13",
-      "codeProduct":"G56TI3QLDP",
       "productName" : "Bàn cafe",
       "productImage": "/assets/products/13.jpg",
       "productPrice":30000,
@@ -146,7 +133,6 @@
     },
       {
       "id": "14",
-      "codeProduct":"UGT6CJWQHO",
       "productName" : "Tủ đầu giường",
       "productImage": "/assets/products/14.jpg",
       "productPrice":30000,
@@ -156,7 +142,6 @@
     },
      {
       "id": "15",
-      "codeProduct":"QH2KY53J8E",
       "productName" : "Bình giữ nhiệt cà phê",
       "productImage": "/assets/products/15.jpg",
       "productPrice":30000,
@@ -166,7 +151,6 @@
     },
      {
       "id": "16",
-      "codeProduct":"Z5WVIXUKDH",
       "productName" : "Đĩa xanh",
       "productImage": "/assets/products/16.jpg",
       "productPrice":25000,
