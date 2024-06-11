@@ -243,5 +243,119 @@
        "date":"01 tháng 04, 2023",
       "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]"
     }
-  ]
+  ],
+   "homepage": [
+    {
+      "id":"banner1",
+      "imageHome": "/assets/homepage/banner1.jpg",
+      "tittleHome": "THIẾT KẾ NỘI THẤT",
+      "contentHome":" Xu hướng thiết kế nội thất Bắc Âu đuược giới trẻ ưu ái sử dụng trong những năm gần đây nhờ vào trào lưu sống xanh, bền vững và yêu môi trường với chi phí phù hợp",
+      "textHome":"XU HƯỚNG 2024"
+    },
+    {
+      "id":"banner2",
+      "imageHome": "/assets/homepage/banner2.jpg",
+      "tittleHome": "LIVING ROOM FURNITURE",
+      "contentHome":"Discount 50%",
+      "textHome":""
+    },
+    {
+      "id":"category1",
+      "imageHome": "/assets/homepage/category1.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+     {
+      "id":"category2",
+      "imageHome": "/assets/homepage/category2.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+    {
+       "id":"category3",
+      "imageHome": "/assets/homepage/category3.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+    {
+       "id":"category4",
+      "imageHome": "/assets/homepage/category4.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+     {
+       "id":"category5",
+      "imageHome": "/assets/homepage/category5.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+     {
+       "id":"slideimg1",
+      "imageHome": "/assets/homepage/slideimg1.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg2",
+      "imageHome": "/assets/homepage/slideimg2.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg3",
+      "imageHome": "/assets/homepage/slideimg3.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+     {
+       "id":"slideimg4",
+      "imageHome": "/assets/homepage/slideimg4.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    }, 
+     {
+       "id":"slideimg5",
+      "imageHome": "/assets/homepage/slideimg5.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg6",
+      "imageHome": "/assets/homepage/slideimg6.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg6",
+      "imageHome": "/assets/homepage/slideimg6.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg7",
+      "imageHome": "/assets/homepage/slideimg7.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    },
+      {
+       "id":"slideimg8",
+      "imageHome": "/assets/homepage/slideimg8.jpg",
+      "tittleHome": "",
+      "contentHome":"",
+      "textHome":""
+    }
+  ],
 }
