@@ -1,19 +1,5 @@
 {
-  "users": [
-    {
-      "email": "nhi1711@gmail.com",
-      "password": "123",
-      "type": "1",
-      "id": "f066"
-    },
-    {
-      "email": "admin@gmail.com",
-      "password": "123",
-      "type": "0",
-      "id": "8481"
-    }
-  ],
-   "sanpham": [
+ "sanpham": [
     {
       "id": "1",
       "productName" : "Bình hoa nhỏ (Màu đỏ - 16x16cm)",
