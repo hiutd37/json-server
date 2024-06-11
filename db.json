@@ -7,7 +7,7 @@
       "productPrice":150000,
       "decription" : "Vật liệu gốm sứ cao cấp ",
       "inventory":10,
-      "category":"Phụ kiện,Nội thất"
+      "category":"Phụ kiện"
     },
       {
       "id": "2",
@@ -16,7 +16,7 @@
       "productPrice":150000,
       "decription" : "Gỗ cao su tự nhiên",
       "inventory":10,
-       "category":"Phụ kiện,Nội thất"
+       "category":"Nội thất"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "productPrice":30000,
       "decription" :"Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
       "inventory":10,
-      "category": "Phụ kiện , Đồng hồ , Nội thất"
+      "category": "Đồng hồ"
     },
       {
       "id": "5",
@@ -43,7 +43,7 @@
       "productPrice":30000,
       "decription" : " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
       "inventory":10,
-      "category":"Phụ kiện , Đồng hồ , Nội thất"
+      "category":"Đồng hồ"
     },
     {
       "id": "6",
@@ -52,7 +52,7 @@
       "productPrice":30000,
       "decription" : "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
       "inventory":10,
-      "category":"Phụ kiện , Đồng hồ , Nội thất"
+      "category":"Đồng hồ"
     },
       {
       "id": "7",
@@ -61,7 +61,7 @@
       "productPrice":30000,
       "decription" : "Đèn để bàn trang trí ",
       "inventory":10,
-      "category":"Chiếu sáng , Phụ kiện , Nội thất"
+      "category":"Chiếu sáng"
     },
     {
       "id": "8",
@@ -70,7 +70,7 @@
       "productPrice":30000,
       "decription" : "Đèn sân vườn trang trí ",
       "inventory":10,
-      "category":"Chiếu sáng , Phụ kiện , Nội thất"
+      "category":"Chiếu sáng"
     },
     {
       "id": "9",
@@ -79,7 +79,7 @@
       "productPrice":30000,
       "decription" : "Đèn treo trang trí ",
       "inventory":10,
-      "category":"Chiếu sáng , Phụ kiện , Nội thất"
+      "category":"Chiếu sáng"
     },
     {
       "id": "10",
@@ -88,7 +88,7 @@
       "productPrice":30000,
       "decription" : "Bình thủy tinh trang trí ",
       "inventory":10,
-      "category":"Phụ kiện , Nội thất"
+      "category":"Phụ kiện"
     },
     {
       "id": "11",
@@ -97,7 +97,7 @@
       "productPrice":30000,
       "decription" : "Đèn treo trang trí ",
       "inventory":10,
-      "category":"Chiếu sáng , Phụ kiện , Nội thất"
+      "category":"Chiếu sáng"
     },
       {
       "id": "12",
@@ -106,7 +106,7 @@
       "productPrice":30000,
       "decription" : "Bình đựng nước trang trí ",
       "inventory":10,
-      "category":"Phụ kiện , Nội thất"
+      "category":"Phụ kiện"
     },
     {
       "id": "13",
@@ -115,7 +115,7 @@
       "productPrice":30000,
       "decription" : "Bàn cafe trang trí ",
       "inventory":10,
-      "category":"Phụ kiện , Nội thất"
+      "category":"Nội thất"
     },
       {
       "id": "14",
@@ -124,7 +124,7 @@
       "productPrice":30000,
       "decription" : "Tủ đầu giường trang trí ",
       "inventory":10,
-      "category":"Phụ kiện,Nội thất"
+      "category":"Nội thất"
     },
      {
       "id": "15",
@@ -133,7 +133,7 @@
       "productPrice":30000,
       "decription" : "Bình giữ nhiệt cà phê ",
       "inventory":10,
-      "category":"Phụ kiện,Nội thất"
+      "category":"Phụ kiện"
     },
      {
       "id": "16",
@@ -142,7 +142,7 @@
       "productPrice":25000,
       "decription" : "Sứ tráng men cao cấp ",
       "inventory":10,
-      "category":"Phụ kiện,Nội thất"
+      "category":"Phụ kiện"
     }
   ],
   "library": [
