@@ -5,7 +5,7 @@
       "productName" : "Bình hoa nhỏ ",
       "productImage": "/assets/products/1.jpg",
       "productPrice":150000,
-      "decription" : "Vật liệu gốm sứ cao cấp ",
+      "description" : "Vật liệu gốm sứ cao cấp ",
       "inventory":10,
       "category":"Phụ kiện"
     },
@@ -14,7 +14,7 @@
       "productName" : "Ghế gỗ",
       "productImage": "/assets/products/2.jpg",
       "productPrice":150000,
-      "decription" : "Gỗ cao su tự nhiên",
+      "description" : "Gỗ cao su tự nhiên",
       "inventory":10,
        "category":"Nội thất"
     },
@@ -23,7 +23,7 @@
       "productName" : "Gấu bông",
       "productImage": "/assets/products/3.png",
       "productPrice":300000,
-      "decription" : "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+      "description" : "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
       "inventory":10,
       "category":"Đồ chơi"
     },
@@ -32,7 +32,7 @@
       "productName" : "Đồng hồ gỗ",
       "productImage": "/assets/products/4.png",
       "productPrice":30000,
-      "decription" :"Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "description" :"Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
       "inventory":10,
       "category": "Đồng hồ"
     },
@@ -41,7 +41,7 @@
       "productName" : "Đồng hồ tròn đơn giản",
       "productImage": "/assets/products/5.jpg",
       "productPrice":30000,
-      "decription" : " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
+      "description" : " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
       "inventory":10,
       "category":"Đồng hồ"
     },
@@ -50,7 +50,7 @@
       "productName" : "Đồng hồ treo tường bằng gỗ",
       "productImage": "/assets/products/6.jpg",
       "productPrice":30000,
-      "decription" : "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "description" : "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
       "inventory":10,
       "category":"Đồng hồ"
     },
@@ -59,7 +59,7 @@
       "productName" : "Đèn ngủ",
       "productImage": "/assets/products/7.jpg",
       "productPrice":30000,
-      "decription" : "Đèn để bàn trang trí ",
+      "description" : "Đèn để bàn trang trí ",
       "inventory":10,
       "category":"Chiếu sáng"
     },
@@ -68,7 +68,7 @@
       "productName" : "Đèn sân vườn",
       "productImage": "/assets/products/8.jpg",
       "productPrice":30000,
-      "decription" : "Đèn sân vườn trang trí ",
+      "description" : "Đèn sân vườn trang trí ",
       "inventory":10,
       "category":"Chiếu sáng"
     },
@@ -77,7 +77,7 @@
       "productName" : "Đèn neon",
       "productImage": "/assets/products/9.jpg",
       "productPrice":30000,
-      "decription" : "Đèn treo trang trí ",
+      "description" : "Đèn treo trang trí ",
       "inventory":10,
       "category":"Chiếu sáng"
     },
@@ -86,7 +86,7 @@
       "productName" : "Bình thủy tinh",
       "productImage": "/assets/products/10.jpg",
       "productPrice":30000,
-      "decription" : "Bình thủy tinh trang trí ",
+      "description" : "Bình thủy tinh trang trí ",
       "inventory":10,
       "category":"Phụ kiện"
     },
@@ -95,7 +95,7 @@
       "productName" : "Đèn treo",
       "productImage": "/assets/products/11.jpg",
       "productPrice":30000,
-      "decription" : "Đèn treo trang trí ",
+      "description" : "Đèn treo trang trí ",
       "inventory":10,
       "category":"Chiếu sáng"
     },
@@ -104,7 +104,7 @@
       "productName" : "Bình đựng nước",
       "productImage": "/assets/products/12.jpg",
       "productPrice":30000,
-      "decription" : "Bình đựng nước trang trí ",
+      "description" : "Bình đựng nước trang trí ",
       "inventory":10,
       "category":"Phụ kiện"
     },
@@ -113,7 +113,7 @@
       "productName" : "Bàn cafe",
       "productImage": "/assets/products/13.jpg",
       "productPrice":30000,
-      "decription" : "Bàn cafe trang trí ",
+      "description" : "Bàn cafe trang trí ",
       "inventory":10,
       "category":"Nội thất"
     },
@@ -122,7 +122,7 @@
       "productName" : "Tủ đầu giường",
       "productImage": "/assets/products/14.jpg",
       "productPrice":30000,
-      "decription" : "Tủ đầu giường trang trí ",
+      "description" : "Tủ đầu giường trang trí ",
       "inventory":10,
       "category":"Nội thất"
     },
@@ -131,7 +131,7 @@
       "productName" : "Bình giữ nhiệt cà phê",
       "productImage": "/assets/products/15.jpg",
       "productPrice":30000,
-      "decription" : "Bình giữ nhiệt cà phê ",
+      "description" : "Bình giữ nhiệt cà phê ",
       "inventory":10,
       "category":"Phụ kiện"
     },
@@ -140,7 +140,7 @@
       "productName" : "Đĩa xanh",
       "productImage": "/assets/products/16.jpg",
       "productPrice":25000,
-      "decription" : "Sứ tráng men cao cấp ",
+      "description" : "Sứ tráng men cao cấp ",
       "inventory":10,
       "category":"Phụ kiện"
     }
