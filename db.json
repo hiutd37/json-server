@@ -231,53 +231,7 @@
     }
   ],
   "order": [
-    {
-      "fullName": "Park Seo Joon",
-      "address": "123 Alexander",
-      "email": "psj123@gmail.com",
-      "phone": "0123456789",
-      "province": "Seoul",
-      "district": "11",
-      "ward": "11",
-      "note": "",
-      "items": [
-        {
-          "id": "1",
-          "productName": "Bình hoa nhỏ ",
-          "productImage": "/assets/products/1.jpg",
-          "productPrice": 150000,
-          "description": "Vật liệu gốm sứ cao cấp ",
-          "inventory": 10,
-          "category": "Phụ kiện",
-          "quantity": 1
-        },
-        {
-          "id": "2",
-          "productName": "Ghế gỗ",
-          "productImage": "/assets/products/2.jpg",
-          "productPrice": 150000,
-          "description": "Gỗ cao su tự nhiên",
-          "inventory": 10,
-          "category": "Nội thất",
-          "quantity": 1
-        },
-        {
-          "id": "3",
-          "productName": "Gấu bông",
-          "productImage": "/assets/products/3.png",
-          "productPrice": 300000,
-          "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
-          "inventory": 10,
-          "category": "Đồ chơi",
-          "quantity": 1
-        }
-      ],
-      "orderCode": "ORD863",
-      "orderDate": "2024-06-20",
-      "total": 600000,
-      "status": "Đơn mới",
-      "id": 1
-    }
+    
   ],
   "user": [
     {
