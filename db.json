@@ -175,27 +175,27 @@
   "library": [
     {
       "nameLib": "Phòng khách",
-      "imageURL": "https://i.ibb.co/tDjKwGN/1.jpg",
+      "imageURL": "/assets/library/1.jpg",
       "id": "lib1"
     },
     {
       "nameLib": "Phòng ngủ",
-      "imageURL": "https://i.ibb.co/mHbXx7X/6.jpg",
+      "imageURL": "/assets/library/2.jpg",
       "id": "lib2"
     },
     {
       "nameLib": "Phòng ăn",
-      "imageURL": "https://i.ibb.co/0Mxnz4G/7.jpg",
+      "imageURL": "/assets/library/3.jpg",
       "id": "lib3"
     },
     {
       "nameLib": "Sảnh và lối vào",
-      "imageURL": "https://i.ibb.co/X5ZbP0d/8.jpg",
+      "imageURL": "/assets/library/4.jpg",
       "id": "lib4"
     },
     {
       "nameLib": "Phòng làm việc",
-      "imageURL": "https://i.ibb.co/ZBw42p8/5.jpg",
+      "imageURL": "/assets/library/5.jpg",
       "id": "lib5"
     }
   ],
