@@ -232,159 +232,159 @@
   ],
   "order": [
     {
-    "fullName": "Park Seo Jun",
-    "address": "Canada",
-    "email": "justinbieber@drewhoue.com",
-    "phone": "0123456789",
-    "province": "Canada",
-    "district": "null",
-    "ward": "null",
-    "note": "",
-    "items": [
-      {
-        "id": "2",
-        "productName": "Ghế gỗ",
-        "productImage": "/assets/products/2.jpg",
-        "productPrice": 550000,
-        "description": "Gỗ cao su tự nhiên",
-        "inventory": 10,
-        "category": "Nội thất",
-        "quantity": 1
-      },
-      {
-        "id": "3",
-        "productName": "Gấu bông",
-        "productImage": "/assets/products/3.png",
-        "productPrice": 200000,
-        "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
-        "inventory": 10,
-        "category": "Đồ chơi",
-        "quantity": 1
-      }
-    ],
-    "orderCode": "ORD314",
-    "orderDate": "2024-06-25",
-    "total": 785000,
-    "id": 1
-  },
-  {
-    "fullName": "Bio Fu",
-    "address": "123",
-    "email": "blueminhphong94@gmail.com",
-    "phone": "0123456789",
-    "province": "Tp.Hồ Chí Minh",
-    "district": "null",
-    "ward": "null",
-    "note": "",
-    "items": [
-      {
-        "id": "2",
-        "productName": "Ghế gỗ",
-        "productImage": "/assets/products/2.jpg",
-        "productPrice": 550000,
-        "description": "Gỗ cao su tự nhiên",
-        "inventory": 10,
-        "category": "Nội thất",
-        "quantity": 1
-      },
-      {
-        "id": "3",
-        "productName": "Gấu bông",
-        "productImage": "/assets/products/3.png",
-        "productPrice": 200000,
-        "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
-        "inventory": 10,
-        "category": "Đồ chơi",
-        "quantity": 1
-      },
-      {
-        "id": "4",
-        "productName": "Đồng hồ gỗ",
-        "productImage": "/assets/products/4.png",
-        "productPrice": 358000,
-        "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
-        "inventory": 10,
-        "category": "Đồng hồ",
-        "quantity": 1
-      }
-    ],
-    "orderCode": "ORD167",
-    "orderDate": "2024-06-25",
-    "total": 1143000,
-    "id": 2
-  },
-  {
-    "fullName": "bio fu",
-    "address": "12",
-    "email": "blueminhphong94@gmail.com",
-    "phone": "0123456789",
-    "province": "tp hcm",
-    "district": "11",
-    "ward": "11",
-    "note": "",
-    "items": [
-      {
-        "id": "2",
-        "productName": "Ghế gỗ",
-        "productImage": "/assets/products/2.jpg",
-        "productPrice": 550000,
-        "description": "Gỗ cao su tự nhiên",
-        "inventory": 10,
-        "category": "Nội thất",
-        "quantity": 1
-      },
-      {
-        "id": "3",
-        "productName": "Gấu bông",
-        "productImage": "/assets/products/3.png",
-        "productPrice": 200000,
-        "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
-        "inventory": 10,
-        "category": "Đồ chơi",
-        "quantity": 1
-      }
-    ],
-    "orderCode": "ORD614",
-    "orderDate": "2024-06-25",
-    "total": 785000,
-    "id": 3
-  },
-  {
-    "fullName": "Kim Thủy",
-    "address": "123",
-    "email": "phanthikimthuy146@gmail.com",
-    "phone": "0123456789",
-    "province": "11",
-    "district": "11",
-    "ward": "11",
-    "note": "",
-    "items": [
-      {
-        "id": "5",
-        "productName": "Đồng hồ tròn đơn giản",
-        "productImage": "/assets/products/5.jpg",
-        "productPrice": 300000,
-        "description": " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
-        "inventory": 10,
-        "category": "Đồng hồ",
-        "quantity": 1
-      },
-      {
-        "id": "6",
-        "productName": "Đồng hồ treo tường bằng gỗ",
-        "productImage": "/assets/products/6.jpg",
-        "productPrice": 600000,
-        "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
-        "inventory": 10,
-        "category": "Đồng hồ",
-        "quantity": 1
-      }
-    ],
-    "orderCode": "ORD622",
-    "orderDate": "2024-06-25",
-    "total": 935000,
-    "id": 4
-  }
+      "fullName": "Park Seo Jun",
+      "address": "Canada",
+      "email": "justinbieber@drewhoue.com",
+      "phone": "0123456789",
+      "province": "Canada",
+      "district": "null",
+      "ward": "null",
+      "note": "",
+      "items": [
+        {
+          "id": "2",
+          "productName": "Ghế gỗ",
+          "productImage": "/assets/products/2.jpg",
+          "productPrice": 550000,
+          "description": "Gỗ cao su tự nhiên",
+          "inventory": 10,
+          "category": "Nội thất",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "productName": "Gấu bông",
+          "productImage": "/assets/products/3.png",
+          "productPrice": 200000,
+          "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+          "inventory": 10,
+          "category": "Đồ chơi",
+          "quantity": 1
+        }
+      ],
+      "orderCode": "ORD314",
+      "orderDate": "2024-06-25",
+      "total": 785000,
+      "id": 1
+    },
+    {
+      "fullName": "Bio Fu",
+      "address": "123",
+      "email": "blueminhphong94@gmail.com",
+      "phone": "0123456789",
+      "province": "Tp.Hồ Chí Minh",
+      "district": "null",
+      "ward": "null",
+      "note": "",
+      "items": [
+        {
+          "id": "2",
+          "productName": "Ghế gỗ",
+          "productImage": "/assets/products/2.jpg",
+          "productPrice": 550000,
+          "description": "Gỗ cao su tự nhiên",
+          "inventory": 10,
+          "category": "Nội thất",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "productName": "Gấu bông",
+          "productImage": "/assets/products/3.png",
+          "productPrice": 200000,
+          "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+          "inventory": 10,
+          "category": "Đồ chơi",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "productName": "Đồng hồ gỗ",
+          "productImage": "/assets/products/4.png",
+          "productPrice": 358000,
+          "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+          "inventory": 10,
+          "category": "Đồng hồ",
+          "quantity": 1
+        }
+      ],
+      "orderCode": "ORD167",
+      "orderDate": "2024-06-25",
+      "total": 1143000,
+      "id": 2
+    },
+    {
+      "fullName": "bio fu",
+      "address": "12",
+      "email": "blueminhphong94@gmail.com",
+      "phone": "0123456789",
+      "province": "tp hcm",
+      "district": "11",
+      "ward": "11",
+      "note": "",
+      "items": [
+        {
+          "id": "2",
+          "productName": "Ghế gỗ",
+          "productImage": "/assets/products/2.jpg",
+          "productPrice": 550000,
+          "description": "Gỗ cao su tự nhiên",
+          "inventory": 10,
+          "category": "Nội thất",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "productName": "Gấu bông",
+          "productImage": "/assets/products/3.png",
+          "productPrice": 200000,
+          "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+          "inventory": 10,
+          "category": "Đồ chơi",
+          "quantity": 1
+        }
+      ],
+      "orderCode": "ORD614",
+      "orderDate": "2024-06-25",
+      "total": 785000,
+      "id": 3
+    },
+    {
+      "fullName": "Kim Thủy",
+      "address": "123",
+      "email": "phanthikimthuy146@gmail.com",
+      "phone": "0123456789",
+      "province": "11",
+      "district": "11",
+      "ward": "11",
+      "note": "",
+      "items": [
+        {
+          "id": "5",
+          "productName": "Đồng hồ tròn đơn giản",
+          "productImage": "/assets/products/5.jpg",
+          "productPrice": 300000,
+          "description": " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
+          "inventory": 10,
+          "category": "Đồng hồ",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "productName": "Đồng hồ treo tường bằng gỗ",
+          "productImage": "/assets/products/6.jpg",
+          "productPrice": 600000,
+          "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+          "inventory": 10,
+          "category": "Đồng hồ",
+          "quantity": 1
+        }
+      ],
+      "orderCode": "ORD622",
+      "orderDate": "2024-06-25",
+      "total": 935000,
+      "id": 4
+    }
   ],
   "user": [
     {
@@ -392,7 +392,18 @@
       "email": "phanquynhnhi146@gmail.com",
       "password": "123",
       "confirmpassword": "123",
-      "id": 1
+      "id": 1,
+      "name": "phan thị kim thủy",
+      "gender": "Nữ",
+      "birthday": "2024-06-19T01:37:05.068Z",
+      "imgUrl": ""
+    },
+    {
+      "username": "nhi",
+      "email": "nhi@gmail.com",
+      "password": "123",
+      "confirmpassword": "123",
+      "id": 2
     }
   ],
   "category": [
