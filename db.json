@@ -1,6 +1,7 @@
 {
   "sanpham": [
     {
+      "discountPercentage":15,
       "productName": "Khay tráng men",
       "description": "Vật liệu gốm sứ cao cấp ",
       "productImage": "https://i.ibb.co/vDcPk37/28.jpg",
@@ -19,6 +20,7 @@
       "id": "2"
     },
     {
+      "discountPercentage":15,
       "productName": "Nồi tráng men ",
       "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
       "productImage": "https://i.ibb.co/HPhG16W/29.jpg",
@@ -55,6 +57,7 @@
       "id": "6"
     },
     {
+      "discountPercentage":15,
       "productName": "Đèn ngủ",
       "description": "Đèn để bàn trang trí ",
       "productImage": "https://i.ibb.co/qy1vtTc/7.jpg",
@@ -100,6 +103,7 @@
       "id": "11"
     },
     {
+      "discountPercentage":15,
       "productName": "Bình hoa nhỏ",
       "description": "Bình đựng nước trang trí ",
       "productImage": "https://i.ibb.co/9HgBYyR/1.jpg",
@@ -118,6 +122,7 @@
       "id": "13"
     },
     {
+      "discountPercentage":15,
       "productName": "Tủ đầu giường",
       "description": "Tủ đầu giường trang trí ",
       "productImage": "https://i.ibb.co/VQ3XX0K/14.jpg",
