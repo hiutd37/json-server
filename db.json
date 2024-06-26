@@ -1,235 +1,262 @@
 {
   "sanpham": [
-  {
-    "productName": "Bình hoa nhỏ ",
-    "description": "Vật liệu gốm sứ cao cấp ",
-    "productImage": "https://i.ibb.co/rwj3T3Y/1.jpg",
-    "productPrice": 450000,
-    "category": "Phụ kiện",
-    "inventory": 10,
-    "id": "1"
-  },
-  {
-    "productName": "Ghế gỗ",
-    "description": "Gỗ cao su tự nhiên",
-    "productImage": "https://i.ibb.co/ZcPC8zK/2.jpg",
-    "productPrice": 550000,
-    "category": "Nội thất",
-    "inventory": 10,
-    "id": "2"
-  },
-  {
-    "productName": "Gấu bông",
-    "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
-    "productImage": "https://i.ibb.co/GpzWgyw/3.png",
-    "productPrice": 200000,
-    "category": "Đồ chơi",
-    "inventory": 10,
-    "id": "3"
-  },
-  {
-    "productName": "Đồng hồ gỗ",
-    "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
-    "productImage": "https://i.ibb.co/Cvjh3YV/4.png",
-    "productPrice": 358000,
-    "category": "Đồng hồ",
-    "inventory": 10,
-    "id": "4"
-  },
-  {
-    "productName": "Đồng hồ tròn đơn giản",
-    "description": " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
-    "productImage": "https://i.ibb.co/Mp9hM2K/5.jpg",
-    "productPrice": 300000,
-    "category": "Đồng hồ",
-    "inventory": 10,
-    "id": "5"
-  },
-  {
-    "productName": "Đồng hồ treo tường bằng gỗ",
-    "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
-    "productImage": "https://i.ibb.co/xfrN66c/6.jpg",
-    "productPrice": 600000,
-    "category": "Đồng hồ",
-    "inventory": 10,
-    "id": "6"
-  },
-  {
-    "productName": "Đèn ngủ",
-    "description": "Đèn để bàn trang trí ",
-    "productImage": "https://i.ibb.co/qy1vtTc/7.jpg",
-    "productPrice": 750000,
-    "category": "Chiếu sáng",
-    "inventory": 10,
-    "id": "7"
-  },
-  {
-    "productName": "Đèn sân vườn",
-    "description": "Đèn sân vườn trang trí ",
-    "productImage": "https://i.ibb.co/C9FBwwH/8.jpg",
-    "productPrice": 730000,
-    "category": "Chiếu sáng",
-    "inventory": 10,
-    "id": "8"
-  },
-  {
-    "productName": "Đèn neon",
-    "description": "Đèn treo trang trí ",
-    "productImage": "https://i.ibb.co/XWhJ1pW/9.jpg",
-    "productPrice": 950000,
-    "category": "Chiếu sáng",
-    "inventory": 10,
-    "id": "9"
-  },
-  {
-    "productName": "Bình thủy tinh",
-    "description": "Bình thủy tinh trang trí ",
-    "productImage": "https://i.ibb.co/5K8vNR0/10.jpg",
-    "productPrice": 1300000,
-    "category": "Phụ kiện",
-    "inventory": 10,
-    "id": "10"
-  },
-  {
-    "productName": "Đèn treo",
-    "description": "Đèn treo trang trí ",
-    "productImage": "https://i.ibb.co/h9Rd0BJ/11.jpg",
-    "productPrice": 800000,
-    "category": "Chiếu sáng",
-    "inventory": 10,
-    "id": "11"
-  },
-  {
-    "productName": "Bình đựng nước",
-    "description": "Bình đựng nước trang trí ",
-    "productImage": "https://i.ibb.co/GWc9hwy/12.jpg",
-    "productPrice": 145000,
-    "category": "Phụ kiện",
-    "inventory": 10,
-    "id": "12"
-  },
-  {
-    "productName": "Bàn cafe",
-    "description": "Bàn cafe trang trí ",
-    "productImage": "https://i.ibb.co/HqHpvjk/13.jpg",
-    "productPrice": 800000,
-    "category": "Nội thất",
-    "inventory": 10,
-    "id": "13"
-  },
-  {
-    "productName": "Tủ đầu giường",
-    "description": "Tủ đầu giường trang trí ",
-    "productImage": "https://i.ibb.co/VQ3XX0K/14.jpg",
-    "productPrice": 1000000,
-    "category": "Nội thất",
-    "inventory": 10,
-    "id": "14"
-  },
-  {
-    "productName": "Bình giữ nhiệt cà phê",
-    "description": "Bình giữ nhiệt cà phê ",
-    "productImage": "https://i.ibb.co/VwzdqV7/15.jpg",
-    "productPrice": 700000,
-    "category": "Phụ kiện",
-    "inventory": 10,
-    "id": "15"
-  },
-  {
-    "productName": "Đĩa xanh",
-    "description": "Sứ tráng men cao cấp ",
-    "productImage": "https://i.ibb.co/mqry4vf/16.jpg",
-    "productPrice": 1250000,
-    "category": "Phụ kiện",
-    "inventory": 10,
-    "id": "16"
-  }
-],
-  "library":[
-  {
-    "nameLib": "Ảnh thi công HCM",
-    "imageURL": "https://i.ibb.co/tDjKwGN/1.jpg",
-    "id": "lib1"
-  },
-  {
-    "nameLib": "Ảnh thi công Hải Dương",
-    "imageURL": "https://i.ibb.co/rpvQgdp/2.jpg",
-    "id": "lib2"
-  },
-  {
-    "nameLib": "Ảnh thi công Đà Nẵng",
-    "imageURL": "https://i.ibb.co/C66NsDw/3.jpg",
-    "id": "lib3"
-  },
-  {
-    "nameLib": "Ảnh thi công Hải Phòng",
-    "imageURL": "https://i.ibb.co/GPt7D0B/4.jpg",
-    "id": "lib4"
-  },
-  {
-    "nameLib": "Ảnh thi công Hà Nội",
-    "imageURL": "https://i.ibb.co/ZBw42p8/5.jpg",
-    "id": "lib5"
-  }
-],
+    {
+      "productName": "Khay tráng men",
+      "description": "Vật liệu gốm sứ cao cấp ",
+      "productImage": "https://i.ibb.co/vDcPk37/28.jpg",
+      "productPrice": 450000,
+      "category": "Phụ kiện",
+      "inventory": 10,
+      "id": "1"
+    },
+    {
+      "productName": "Ghế gỗ",
+      "description": "Gỗ cao su tự nhiên",
+      "productImage": "https://i.ibb.co/vmKBpcK/22.jpg",
+      "productPrice": 550000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "2"
+    },
+    {
+      "productName": "Nồi tráng men ",
+      "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+      "productImage": "https://i.ibb.co/HPhG16W/29.jpg",
+      "productPrice": 200000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "3"
+    },
+    {
+      "productName": "Bình đựng nước",
+      "description": "men cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "productImage": "https://i.ibb.co/LQ15Qv4/23.jpg",
+      "productPrice": 358000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "4"
+    },
+    {
+      "productName": "Đồng hồ tròn đơn giản",
+      "description": " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
+      "productImage": "https://i.ibb.co/BjvST9H/19.jpg",
+      "productPrice": 300000,
+      "category": "Đồng hồ",
+      "inventory": 10,
+      "id": "5"
+    },
+    {
+      "productName": "Phụ kiện trang trí",
+      "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "productImage": "https://i.ibb.co/L6v5vXG/17.jpg",
+      "productPrice": 600000,
+      "category": "Phụ kiện",
+      "inventory": 10,
+      "id": "6"
+    },
+    {
+      "productName": "Đèn ngủ",
+      "description": "Đèn để bàn trang trí ",
+      "productImage": "https://i.ibb.co/qy1vtTc/7.jpg",
+      "productPrice": 750000,
+      "category": "Chiếu sáng",
+      "inventory": 10,
+      "id": "7"
+    },
+    {
+      "productName": "Đèn sân vườn",
+      "description": "Đèn sân vườn trang trí ",
+      "productImage": "https://i.ibb.co/C9FBwwH/8.jpg",
+      "productPrice": 730000,
+      "category": "Chiếu sáng",
+      "inventory": 10,
+      "id": "8"
+    },
+    {
+      "productName": "Đèn neon",
+      "description": "Đèn treo trang trí ",
+      "productImage": "https://i.ibb.co/QJZrDzv/21.jpg",
+      "productPrice": 950000,
+      "category": "Chiếu sáng",
+      "inventory": 10,
+      "id": "9"
+    },
+    {
+      "productName": "SWEEPER AND DUSTPAN",
+      "description": "Dùng để trang trí",
+      "productImage": "https://i.ibb.co/WftpHbx/18.jpg",
+      "productPrice": 69000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "10"
+    },
+    {
+      "productName": "Đèn treo",
+      "description": "Đèn treo trang trí ",
+      "productImage": "https://i.ibb.co/h9Rd0BJ/11.jpg",
+      "productPrice": 800000,
+      "category": "Chiếu sáng",
+      "inventory": 10,
+      "id": "11"
+    },
+    {
+      "productName": "Bình hoa nhỏ",
+      "description": "Bình đựng nước trang trí ",
+      "productImage": "https://i.ibb.co/9HgBYyR/1.jpg",
+      "productPrice": 145000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "12"
+    },
+    {
+      "productName": "Bàn cafe",
+      "description": "Bàn cafe trang trí ",
+      "productImage": "https://i.ibb.co/HqHpvjk/13.jpg",
+      "productPrice": 800000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "13"
+    },
+    {
+      "productName": "Tủ đầu giường",
+      "description": "Tủ đầu giường trang trí ",
+      "productImage": "https://i.ibb.co/VQ3XX0K/14.jpg",
+      "productPrice": 1000000,
+      "category": "Nội thất",
+      "inventory": 10,
+      "id": "14"
+    },
+    {
+      "productName": "Bình giữ nhiệt cà phê",
+      "description": "Bình giữ nhiệt cà phê ",
+      "productImage": "https://i.ibb.co/Gs3kjNm/27.jpg",
+      "productPrice": 700000,
+      "category": "Phụ kiện",
+      "inventory": 10,
+      "id": "15"
+    },
+    {
+      "productName": "Lạc đà trang trí",
+      "description": "Sứ tráng men cao cấp ",
+      "productImage": "https://i.ibb.co/275fCMJ/24.jpg",
+      "productPrice": 1250000,
+      "category": "Phụ kiện",
+      "inventory": 10,
+      "id": "16"
+    },
+    {
+      "productName": "Bàn gỗ nhỏ",
+      "description": "dùng để phòng khác, đầu giường",
+      "productImage": "https://i.ibb.co/TWhtBs4/20.jpg",
+      "productPrice": 150000,
+      "category": "Nội thất",
+      "inventory": 12,
+      "id": "6Oav-RM"
+    },
+    {
+      "productName": "Tê giác gỗ trang trí",
+      "description": "dùng để trang trí",
+      "productImage": "https://i.ibb.co/kS5hgfM/25.jpg",
+      "productPrice": 100000,
+      "category": "Phụ kiện",
+      "inventory": 5,
+      "id": "BGOIdhm"
+    },
+    {
+      "productName": "Gấu bông",
+      "description": "dùng để trang trí\n",
+      "productImage": "https://i.ibb.co/GpzWgyw/3.png",
+      "productPrice": 300000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "2OTc6yc"
+    }
+  ],
+  "library": [
+    {
+      "nameLib": "Ảnh thi công HCM",
+      "imageURL": "https://i.ibb.co/tDjKwGN/1.jpg",
+      "id": "lib1"
+    },
+    {
+      "nameLib": "Ảnh thi công Hải Dương",
+      "imageURL": "https://i.ibb.co/mHbXx7X/6.jpg",
+      "id": "lib2"
+    },
+    {
+      "nameLib": "Ảnh thi công Đà Nẵng",
+      "imageURL": "https://i.ibb.co/0Mxnz4G/7.jpg",
+      "id": "lib3"
+    },
+    {
+      "nameLib": "Ảnh thi công Hải Phòng",
+      "imageURL": "https://i.ibb.co/X5ZbP0d/8.jpg",
+      "id": "lib4"
+    },
+    {
+      "nameLib": "Ảnh thi công Hà Nội",
+      "imageURL": "https://i.ibb.co/ZBw42p8/5.jpg",
+      "id": "lib5"
+    }
+  ],
   "news": [
-  {
-    "nameTittle": "Cách Tạo Không Gian Nội Thất Đẹp Theo Phong Cách Indochine",
-    "imageNew": "https://i.ibb.co/MDSnthk/1.jpg",
-    "date": "08 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new1"
-  },
-  {
-    "nameTittle": "19 gam màu hứa hẹn dẫn đầu xu hướng trang trí nội thất 2022",
-    "imageNew": "https://i.ibb.co/LpY175b/2.jpg",
-    "date": "05 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new2"
-  },
-  {
-    "nameTittle": "Thi công nội thất căn hộ Vinhomes Grand Park Q9 Block S202",
-    "imageNew": "https://i.ibb.co/rpd84kX/3.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new3"
-  },
-  {
-    "nameTittle": "Thi công nội thất căn hộ Midtown M7 Phú Mỹ Hưng 115m2",
-    "imageNew": "https://i.ibb.co/qgwScWh/4.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new4"
-  },
-  {
-    "nameTittle": "Thi công nội thất nhà phố D7 An Thiên Lý Thủ Đức K2 146m2",
-    "imageNew": "https://i.ibb.co/ns0RdcD/5.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new5"
-  },
-  {
-    "nameTittle": "Thi công nội thất nhà phố KDC Bến Lức quận 8 D246 220m2",
-    "imageNew": "https://i.ibb.co/Jx1dyQ9/6.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new6"
-  },
-  {
-    "nameTittle": "Thi công nội thất biệt thự Vinhomes Tân Cảng Bình Thạnh 150m2",
-    "imageNew": "https://i.ibb.co/DkFTgsQ/7.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new7"
-  },
-  {
-    "nameTittle": "Thi công nội thất văn phòng Central Premium Tháp B - 40m2",
-    "imageNew": "https://i.ibb.co/cbffH3b/8.jpg",
-    "date": "01 tháng 04, 2023",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
-    "id": "new8"
-  }
-],
+    {
+      "nameTittle": "Cách Tạo Không Gian Nội Thất Đẹp Theo Phong Cách Indochine",
+      "imageNew": "https://i.ibb.co/d0nbJ3D/10.jpg",
+      "date": "2024-06-26",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new1"
+    },
+    {
+      "nameTittle": "19 gam màu hứa hẹn dẫn đầu xu hướng trang trí nội thất 2022",
+      "imageNew": "https://i.ibb.co/wpwvCwK/9.jpg",
+      "date": "05 tháng 04, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new2"
+    },
+    {
+      "nameTittle": "Thi công nội thất căn hộ Vinhomes Grand Park Q9 Block S202",
+      "imageNew": "https://i.ibb.co/X5ZbP0d/8.jpg",
+      "date": "2024-06-26",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new3"
+    },
+    {
+      "nameTittle": "Thi công nội thất căn hộ Midtown M7 Phú Mỹ Hưng 115m2",
+      "imageNew": "https://i.ibb.co/WcbBm7r/9.jpg",
+      "date": "2024-06-26",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new4"
+    },
+    {
+      "nameTittle": "Thi công nội thất nhà phố D7 An Thiên Lý Thủ Đức K2 146m2",
+      "imageNew": "https://i.ibb.co/ns0RdcD/5.jpg",
+      "date": "01 tháng 04, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new5"
+    },
+    {
+      "nameTittle": "Thi công nội thất nhà phố KDC Bến Lức quận 8 D246 220m2",
+      "imageNew": "https://i.ibb.co/NVQhzDM/10.jpg",
+      "date": "2024-06-26",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new6"
+    },
+    {
+      "nameTittle": "Thi công nội thất biệt thự Vinhomes Tân Cảng Bình Thạnh 150m2",
+      "imageNew": "https://i.ibb.co/DkFTgsQ/7.jpg",
+      "date": "01 tháng 04, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new7"
+    },
+    {
+      "nameTittle": "Thi công nội thất văn phòng Central Premium Tháp B - 40m2",
+      "imageNew": "https://i.ibb.co/cbffH3b/8.jpg",
+      "date": "01 tháng 04, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet sapien dignissim a elementum. Sociis metus, hendrerit mauris id in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis [...]",
+      "id": "new8"
+    }
+  ],
   "order": [
     {
       "fullName": "Park Seo Jun",
