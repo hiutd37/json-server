@@ -151,7 +151,7 @@
       "id": "15"
     },
     {
-      "discountPercentage": 0,
+      "discountPercentage": 50,
       "productName": "Lạc đà trang trí",
       "description": "Trang trí phòng khách ",
       "productImage": "https://i.ibb.co/275fCMJ/24.jpg",
@@ -159,6 +159,66 @@
       "category": "Phụ kiện",
       "inventory": 10,
       "id": "16"
+    },
+    {
+      "discountPercentage": 10,
+      "productName": "Capybara baby",
+      "description": "Capybara baby ",
+      "productImage": "/assets/products/1.jpg",
+      "productPrice": 250000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "17"
+    },
+      {
+      "discountPercentage": 10,
+      "productName": "Capybara mang balo rùa",
+      "description": "Capybara mang balo rùa ",
+      "productImage": "/assets/products/2.jpg",
+      "productPrice": 350000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "18"
+    },
+      {
+      "discountPercentage": 10,
+      "productName": "Capybara bánh mì",
+      "description": "Capybara bánh mì ",
+      "productImage": "/assets/products/3.jpg",
+      "productPrice": 250000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "19"
+    },
+       {
+      "discountPercentage": 10,
+      "productName": "Capybara đội mũ birthday",
+      "description": "Capybara đội mũ birthday ",
+      "productImage": "/assets/products/4.jpg",
+      "productPrice": 250000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "20"
+    },
+    {
+      "discountPercentage": 10,
+      "productName": "Capybara đội mũ dâu",
+      "description": "Capybara đội mũ dâu ",
+      "productImage": "/assets/products/5.jpg",
+      "productPrice": 250000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "21"
+    },
+    {
+      "discountPercentage": 10,
+      "productName": "Capybara nước mũi",
+      "description": "Capybara nước mũi ",
+      "productImage": "/assets/products/6.jpg",
+      "productPrice": 250000,
+      "category": "Đồ chơi",
+      "inventory": 10,
+      "id": "22"
     },
     {
       "discountPercentage": 0,
