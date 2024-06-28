@@ -1,7 +1,7 @@
 {
   "sanpham": [
     {
-      "discountPercentage":15,
+      "discountPercentage": 15,
       "productName": "Khay tráng men",
       "description": "Vật liệu gốm sứ cao cấp ",
       "productImage": "https://i.ibb.co/vDcPk37/28.jpg",
@@ -20,7 +20,7 @@
       "id": "2"
     },
     {
-      "discountPercentage":15,
+      "discountPercentage": 15,
       "productName": "Nồi tráng men ",
       "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
       "productImage": "https://i.ibb.co/HPhG16W/29.jpg",
@@ -57,7 +57,7 @@
       "id": "6"
     },
     {
-      "discountPercentage":15,
+      "discountPercentage": 15,
       "productName": "Đèn ngủ",
       "description": "Đèn để bàn trang trí ",
       "productImage": "https://i.ibb.co/qy1vtTc/7.jpg",
@@ -103,7 +103,7 @@
       "id": "11"
     },
     {
-      "discountPercentage":15,
+      "discountPercentage": 15,
       "productName": "Bình hoa nhỏ",
       "description": "Bình đựng nước trang trí ",
       "productImage": "https://i.ibb.co/9HgBYyR/1.jpg",
@@ -122,7 +122,7 @@
       "id": "13"
     },
     {
-      "discountPercentage":15,
+      "discountPercentage": 15,
       "productName": "Tủ đầu giường",
       "description": "Tủ đầu giường trang trí ",
       "productImage": "https://i.ibb.co/VQ3XX0K/14.jpg",
@@ -215,7 +215,7 @@
     {
       "nameTittle": "GIƯỜNG NGỦ CHO PHÒNG NGỦ HIỆN ĐẠI VỚI TẦM GIÁ DƯỚI 15 TRIỆU2",
       "imageNew": "/assets/news/2.jpg",
-      "date": "05 tháng 04, 2023",
+      "date": "2023-04-05",
       "content": "Giường Iris là sự kết hợp hoàn hảo giữa thiết kế sang trọng và tiện ích hiện đại, giúp không gian phòng ngủ thêm phần sang trọng. Tông màu xám trang nhã không chỉ tôn lên vẻ đẹp thanh lịch mà còn dễ dàng hòa hợp với mọi phong cách trang trí. Được thiết kế 4 hộc kéo xung quanh giúp tối ưu hóa diện tích và cung cấp không gian lưu trữ rộng rãi cho đồ đạc. Với sự tiện dụng và thiết kế thông minh này, phòng ngủ của bạn sẽ luôn gọn gàng và thoáng đãng, tạo cảm giác thoải mái.",
       "id": "new2"
     },
@@ -236,7 +236,7 @@
     {
       "nameTittle": "TẬN HƯỞNG BỮA TỐI CÙNG BÀN ĂN GỖ SỒI JAZZ",
       "imageNew": "/assets/news/5.jpg",
-      "date": "01 tháng 04, 2023",
+      "date": "2023-04-01",
       "content": "Trong không gian hiện đại cùng bữa tối ấm cúng, bàn ăn gỗ sồi với thiết kế tinh tế như một nét chấm phá làm phòng ăn trở nên thật ấn tượng. Cùng Nhà Xinh khám phá nhiều hơn về bàn ăn gỗ sồi nhé!",
       "id": "new5"
     },
@@ -250,14 +250,14 @@
     {
       "nameTittle": "KHÔNG GIAN XANH MÁT VỚI NỘI THẤT THIẾT KẾ TỐI GIẢN",
       "imageNew": "/assets/news/7.jpg",
-      "date": "01 tháng 04, 2023",
+      "date": "2023-04-01",
       "content": "Tháng tư rực rỡ đang sắp đến mang theo thời tiết nóng đặc trưng của mùa hè. Chuẩn bị một không gian xanh mát cho căn nhà là cách giải nhiệt hiệu quả cho mùa hè này. Cùng Nhà Xinh khám phá những ý tưởng không gian xanh cho mùa hè thật tươi mát.",
       "id": "new7"
     },
     {
       "nameTittle": "KHÔNG GIAN MÁT DỊU CHO MÙA HÈ",
       "imageNew": "/assets/news/8.jpg",
-      "date": "01 tháng 04, 2023",
+      "date": "2023-04-01",
       "content": "Sắc xanh của biển của chiếc sofa Bolero mang thổi luồng gió mát vào không gian phòng khách. Chiếc sofa Bolero vải xanh êm ái là một lựa chọn tinh tế cho những ngày hè nóng này. Một chiếc đôn đi kèm, dễ dàng di chuyển để tạo ra không gian đầy năng động và thư giãn.",
       "id": "new8"
     }
@@ -428,7 +428,14 @@
       "name": "phan thị kim thủy",
       "gender": "Nữ",
       "birthday": "2024-06-19T01:37:05.068Z",
-      "imgUrl": ""
+      "imgUrl": "",
+      "file": {
+        "filename": "27.jpg",
+        "name": "27",
+        "mime": "image/jpeg",
+        "extension": "jpg",
+        "url": "https://i.ibb.co/BNWP7kz/27.jpg"
+      }
     },
     {
       "username": "nhi",
