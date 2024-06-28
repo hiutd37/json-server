@@ -1,16 +1,17 @@
 {
   "sanpham": [
-    {
-      "discountPercentage": 15,
+   {
+      "discountPercentage":15,
       "productName": "Khay tráng men",
-      "description": "Vật liệu gốm sứ cao cấp ",
+      "description": "Tráng men Ceramics cao cấp, tăng độ bền theo thời gian cho sản phẩm, thiết kế style Water Grillit sang trọng ",
       "productImage": "https://i.ibb.co/vDcPk37/28.jpg",
       "productPrice": 450000,
       "category": "Phụ kiện",
       "inventory": 10,
       "id": "1"
     },
-    {
+    {  
+      "discountPercentage":0,
       "productName": "Ghế gỗ",
       "description": "Gỗ cao su tự nhiên",
       "productImage": "https://i.ibb.co/vmKBpcK/22.jpg",
@@ -20,9 +21,9 @@
       "id": "2"
     },
     {
-      "discountPercentage": 15,
+      "discountPercentage":15,
       "productName": "Nồi tráng men ",
-      "description": "Gấu Bông được may với chất liệu vải mịn cao cấp, các chi tiết Gấu Bông được hoàn thiện đẹp",
+      "description": "Nồi tráng men là dòng sản phẩm nồi được tráng lên 2 lớp men trong và ngoài. Loại nồi này sở hữu thiết kế nhỏ gọn cùng hoa văn sắc nét rất đẹp. Do đó ngoài được dùng chế biến thực phẩm thì nồi còn được coi như những vật dụng để đựng thức ăn thay cho các loại bát đựng khác.",
       "productImage": "https://i.ibb.co/HPhG16W/29.jpg",
       "productPrice": 200000,
       "category": "Nội thất",
@@ -30,15 +31,17 @@
       "id": "3"
     },
     {
-      "productName": "Bình đựng nước",
-      "description": "men cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
+      "discountPercentage":0,
+      "productName": "Ấm nước",
+      "description": " Sản phẩm được nung ở nhiệt độ cao 1280 độ C giúp sản phẩm không bị rạn men, bung men trong quá trình sử dụng lâu dài. ",
       "productImage": "https://i.ibb.co/LQ15Qv4/23.jpg",
       "productPrice": 358000,
       "category": "Nội thất",
       "inventory": 0,
       "id": "4"
     },
-    {
+    {  
+      "discountPercentage":10,
       "productName": "Đồng hồ tròn đơn giản",
       "description": " Màu Tự nhiên,Đồng hồ treo tường làm bằng chất liệu nhựa,Thiết kế theo phong cách Đương đại hiện đại.",
       "productImage": "https://i.ibb.co/BjvST9H/19.jpg",
@@ -48,6 +51,7 @@
       "id": "5"
     },
     {
+      "discountPercentage":10,
       "productName": "Phụ kiện trang trí",
       "description": "Gỗ cao cấp được hoàn thiện cao cấp, mạ nhiều lớp chống oxi hoá và ăn mòn",
       "productImage": "https://i.ibb.co/L6v5vXG/17.jpg",
@@ -57,7 +61,7 @@
       "id": "6"
     },
     {
-      "discountPercentage": 15,
+      "discountPercentage":15,
       "productName": "Đèn ngủ",
       "description": "Đèn để bàn trang trí ",
       "productImage": "https://i.ibb.co/qy1vtTc/7.jpg",
@@ -66,7 +70,8 @@
       "inventory": 10,
       "id": "7"
     },
-    {
+    {  
+      "discountPercentage":0,
       "productName": "Đèn sân vườn",
       "description": "Đèn sân vườn trang trí ",
       "productImage": "https://i.ibb.co/C9FBwwH/8.jpg",
@@ -76,6 +81,7 @@
       "id": "8"
     },
     {
+      "discountPercentage":0,
       "productName": "Đèn neon",
       "description": "Đèn treo trang trí ",
       "productImage": "https://i.ibb.co/QJZrDzv/21.jpg",
@@ -85,8 +91,9 @@
       "id": "9"
     },
     {
+      "discountPercentage":0,
       "productName": "Sweeper and dustpan",
-      "description": "Dùng để trang trí",
+      "description": "Dùng để dọn dẹp",
       "productImage": "https://i.ibb.co/WftpHbx/18.jpg",
       "productPrice": 69000,
       "category": "Nội thất",
@@ -94,6 +101,7 @@
       "id": "10"
     },
     {
+      "discountPercentage":0,
       "productName": "Đèn treo",
       "description": "Đèn treo trang trí ",
       "productImage": "https://i.ibb.co/h9Rd0BJ/11.jpg",
@@ -103,9 +111,9 @@
       "id": "11"
     },
     {
-      "discountPercentage": 15,
+      "discountPercentage":15,
       "productName": "Bình hoa nhỏ",
-      "description": "Bình đựng nước trang trí ",
+      "description": "Bình cắm hoa trang trí ",
       "productImage": "https://i.ibb.co/9HgBYyR/1.jpg",
       "productPrice": 145000,
       "category": "Nội thất",
@@ -113,6 +121,7 @@
       "id": "12"
     },
     {
+      "discountPercentage":0,
       "productName": "Bàn cafe",
       "description": "Bàn cafe trang trí ",
       "productImage": "https://i.ibb.co/HqHpvjk/13.jpg",
@@ -122,7 +131,7 @@
       "id": "13"
     },
     {
-      "discountPercentage": 15,
+      "discountPercentage":15,
       "productName": "Tủ đầu giường",
       "description": "Tủ đầu giường trang trí ",
       "productImage": "https://i.ibb.co/VQ3XX0K/14.jpg",
@@ -132,6 +141,7 @@
       "id": "14"
     },
     {
+      "discountPercentage":10,
       "productName": "Bình giữ nhiệt cà phê",
       "description": "Bình giữ nhiệt cà phê ",
       "productImage": "https://i.ibb.co/Gs3kjNm/27.jpg",
@@ -141,8 +151,9 @@
       "id": "15"
     },
     {
+      "discountPercentage":0,
       "productName": "Lạc đà trang trí",
-      "description": "Sứ tráng men cao cấp ",
+      "description": "Trang trí phòng khách ",
       "productImage": "https://i.ibb.co/275fCMJ/24.jpg",
       "productPrice": 1250000,
       "category": "Phụ kiện",
@@ -150,8 +161,9 @@
       "id": "16"
     },
     {
+      "discountPercentage":0,
       "productName": "Bàn gỗ nhỏ",
-      "description": "dùng để phòng khác, đầu giường",
+      "description": "Nội thất phòng khách",
       "productImage": "https://i.ibb.co/TWhtBs4/20.jpg",
       "productPrice": 150000,
       "category": "Nội thất",
@@ -159,8 +171,9 @@
       "id": "6Oav-RM"
     },
     {
+      "discountPercentage":10,
       "productName": "Tê giác gỗ trang trí",
-      "description": "dùng để trang trí",
+      "description": "Dùng để trang trí",
       "productImage": "https://i.ibb.co/kS5hgfM/25.jpg",
       "productPrice": 100000,
       "category": "Phụ kiện",
@@ -168,14 +181,16 @@
       "id": "BGOIdhm"
     },
     {
+      "discountPercentage":0,
       "productName": "Gấu bông",
-      "description": "dùng để trang trí\n",
+      "description": "Gấu bông thỏ",
       "productImage": "https://i.ibb.co/GpzWgyw/3.png",
       "productPrice": 300000,
       "category": "Đồ chơi",
       "inventory": 0,
       "id": "2OTc6yc"
     }
+
   ],
   "library": [
     {
